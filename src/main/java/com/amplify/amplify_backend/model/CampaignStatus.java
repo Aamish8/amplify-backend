@@ -1,0 +1,7 @@
+package com.amplify.amplify_backend.model;
+
+public enum CampaignStatus {
+	  DRAFT, SUBMITTED, CHANGES_REQUESTED, APPROVED, FUNDING, GOAL_REACHED,
+	  DISTRIBUTION_PREP, PROMOTING, COMPLETED, REJECTED, CANCELLED, FAILED
+	}
+
